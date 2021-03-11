@@ -1,5 +1,5 @@
 # ESE-572-Communication-Networks
-Code for ESE 572 Signaling and Control in Communication Networks. Code is written in Python3 and organized in python notebooks.
+Code for ESE 572 Signaling and Control in Communication Networks: Code is written in Python3 and organized in python notebooks.
 
 ## Table of Contents
 * [IP Address Lookup](#IP-Address-Lookup)
